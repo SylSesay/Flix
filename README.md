@@ -21,7 +21,7 @@ Time spent: 7 hours spent in total
 
 ### App Walkthough GIF
 
-<img src="http://recordit.co/r7qw3YbjlZ" width=250><br>
+<img src="http://g.recordit.co/r7qw3YbjlZ.gif" width=250><br>
 
 ### Notes
 A challegnge i had with this project was paying close attention to syntax and making sure each word is spelled correctly
